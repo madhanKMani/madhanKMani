@@ -1,7 +1,7 @@
 ![](./images/top_banner.png)
 ### Hi there 👋
 
-#### I'm Madhan, Who enjoys building mobile apps with Flutter.
+#### I'm Madhan, Who enjoys building mobile apps using Flutter.
 
 #### I share flutter releated stuff here. you can find my flutter tips [here](https://github.com/madhanKMani/flutter_content_hub).
 
