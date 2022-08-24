@@ -3,7 +3,7 @@
 
 #### I'm Madhan, Who enjoys building mobile apps using Flutter.
 
-#### I share flutter releated stuff here. you can find my flutter tips [here](https://github.com/madhanKMani/flutter_content_hub).
+#### I share flutter releated stuff. you can find my flutter tips [here](https://github.com/madhanKMani/flutter_content_hub) and [here](https://medium.com/@madhanKmani)
 
 #### I help people who seeks there business presence in mobile platform by creating cross platform mobile apps using Flutter.
 
