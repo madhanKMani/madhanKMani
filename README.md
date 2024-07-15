@@ -30,6 +30,5 @@ Feel free to explore my repositories, where you’ll find a mix of personal proj
 
 ### Follow me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhankanakamani/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadhanKMani) [![Medium Badge](https://img.shields.io/badge/Medium-121000?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhankanakamani/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MadhanKMani) [![Medium Badge](https://img.shields.io/badge/Medium-121000?style=for-the-badge&logo=medium&logoColor=white)]()
 
-[![Madhan's Github Stats](https://github-readme-stats.vercel.app/api?username=madhanKMani&count_private=true&theme=default&show_icons=true)](	https://medium.com/@madhanKmani)
