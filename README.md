@@ -1,7 +1,6 @@
 ![](./images/images/top_banner_v1.png)
-### Hi there 👋
 
-👋 Hi there! I'm Madhan
+### 👋 Hi there! I'm Madhan
 
 I'm an Android developer passionate about creating innovative solutions and staying ahead of the curve in the ever-evolving tech landscape. Here’s a bit about me:
 
