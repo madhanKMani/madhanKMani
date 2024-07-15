@@ -1,4 +1,4 @@
-![](./images/images/top_banner_v1.png)
+![](./images/top_banner_v1.png)
 
 ### 👋 Hi there! I'm Madhan
 
