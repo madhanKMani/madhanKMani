@@ -6,7 +6,9 @@
 I'm an Android developer passionate about creating innovative solutions and staying ahead of the curve in the ever-evolving tech landscape. Here’s a bit about me:
 
 📱 Android Enthusiast: I love diving deep into the world of Android development, exploring new trends, and sharing insights on the latest advancements.
+
 🛠 Problem Solver: Tackling real-world challenges through code is my forte. I thrive on finding efficient, impactful solutions that make a difference.
+
 🚀 Industry Aware: Keeping up-to-date with industry trends is a priority. I’m always learning and adapting to ensure my skills and knowledge remain current and relevant.
 
 
